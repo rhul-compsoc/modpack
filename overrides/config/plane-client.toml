@@ -1,0 +1,8 @@
+
+[plane_info]
+	#Allowed Values: KILOMETERS_PER_HOUR, BLOCKS_PER_SECOND
+	speed_type = "KILOMETERS_PER_HOUR"
+	#Range: 0.1 ~ 2.0
+	scale = 0.75
+	enabled = true
+
