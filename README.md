@@ -1,6 +1,6 @@
 # modpack
 
-Right click "Downlaod ZIP" on GitHub and import into MultiMC
+Right click "Download ZIP" on GitHub and import into MultiMC
 
 ![How to Install](.github/explorer_hEQyx9J7Qo.png)
 
