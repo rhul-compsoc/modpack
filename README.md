@@ -1,6 +1,10 @@
 # modpack
 
-Right click "Download ZIP" on GitHub and import into MultiMC
+## Installation Instructions
+1. On GitHub, right click "Download ZIP" and copy the link location
+2. In MultiMC's "New Instance" window, select the "Import from zip" option and paste the link in to the address bar
+    - Optionally, give it a name... or else it'll be called _master_ by default.
+3. Select the instance and select "Launch" to start the game
 
 ![How to Install](.github/explorer_hEQyx9J7Qo.png)
 
