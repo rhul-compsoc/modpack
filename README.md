@@ -8,6 +8,11 @@
 
 ![How to Install](.github/explorer_hEQyx9J7Qo.png)
 
+4. (Optional) Download Optifine HD U G7 (or G8 pre2)
+    - https://optifine.net/downloads
+    - Select `(mirror)` for the download
+    - Put the `.jar` file into the mods folder of the CompSoc Minecraft instance.
+
 ## Technical Support
 
 For technical support, try the `🎮 | minecraft` channel on Discord.
@@ -64,7 +69,6 @@ For technical support, try the `🎮 | minecraft` channel on Discord.
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/morph-o-tool">Morph-o-Tool (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/rftools-storage">RFTools Storage (by McJty)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/rhino">Rhino (by LatvianModder)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/carry-on">Carry On (by Tschipp)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/extrastorage">ExtraStorage (by 3divad99)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/refined-storage">Refined Storage (by raoulvdberge)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jei-integration">JEI Integration (by SnowShock35)</a></li>
@@ -102,15 +106,15 @@ For technical support, try the `🎮 | minecraft` channel on Discord.
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/snad-back-to-the-past">Snad - Back to the past (by lazynessmind)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dank-storage">Dank Storage (by tfarecnim)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/appleskin">AppleSkin (by squeek502)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/phosphophyllite">Phosphophyllite (by RogueLogix)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/enderchests">EnderChests (by ShetiPhian)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/phosphophyllite">Phosphophyllite (by RogueLogix)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/environmental-tech">Environmental Tech (by ValkyrieofNight)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jei">Just Enough Items (JEI) (by mezz)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge">Cloth Config API (Forge) (by shedaniel)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/valkyrielib">ValkyrieLib (by ValkyrieofNight)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/macaws-windows">Macaw's Windows (by sketch_macaw)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/default-options">Default Options (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/reauth">ReAuth (by TechnicianLP)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/default-options">Default Options (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli">Patchouli (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jumbo-furnace">Jumbo Furnace (by Commoble)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/thermal-innovation">Thermal Innovation (by TeamCoFH)</a></li>
@@ -130,9 +134,9 @@ For technical support, try the `🎮 | minecraft` channel on Discord.
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/titanium">Titanium (by hrznstudio)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cyclops-core">Cyclops Core (by kroeser)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/storage-drawers">Storage Drawers (by Texelsaur)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/chisels-bits">Chisels & Bits (by AlgorithmX2)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/travel-anchors">Travel Anchors (by CastCrafter)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/clumps">Clumps (by Jaredlll08)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/chisels-bits">Chisels & Bits (by AlgorithmX2)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/integrated-crafting">Integrated Crafting (by kroeser)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xnet-gases">XNet Gases (by Terrails)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib">SuperMartijn642's Config Lib (by SuperMartijn642)</a></li>
